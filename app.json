@@ -8,7 +8,7 @@
   "stack": "container",
   "env": {
     "OWNERS": {
-      "description": "owner number",
+      "description": "923139394210",
       "required": true,
       "value": ""
     },
